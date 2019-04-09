@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+
+    <array name="qualification">
+        <item>Select</item>
+        <item>B.Tech</item>
+        <item>B.E</item>
+        <item>M.Tech</item>
+    </array>
+</resources>
